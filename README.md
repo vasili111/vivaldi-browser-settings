@@ -20,8 +20,14 @@
     
     https://www.google.com/complete/search?client=chrome&q=%s
     
+    Suggest settings
+    
     Confirm with OK
     
     Also check privacy tab in stettings.
     
     other links: https://forum.vivaldi.net/topic/18917/google-suggestions-address-field/3  and  https://forum.vivaldi.net/topic/6989/google-search-suggestion-doesn-t-work/15
+    
+    remove search field
+    
+ 6. 4. In settings>Privacy uncheck "save passwords"
