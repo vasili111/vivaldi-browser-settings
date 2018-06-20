@@ -1,0 +1,1 @@
+# vivaldi-browser-settings
