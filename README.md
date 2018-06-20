@@ -31,6 +31,6 @@
     
     remove search field
     
- 6. 4. In settings>Privacy uncheck "save passwords"
+6. In settings>Privacy uncheck "save passwords"
  
- 7: make tab close button always vissible: https://www.reddit.com/r/vivaldibrowser/comments/6jyea7/is_it_possible_to_make_tab_close_button_always/
+7. Make tab close button always vissible: https://www.reddit.com/r/vivaldibrowser/comments/6jyea7/is_it_possible_to_make_tab_close_button_always/
