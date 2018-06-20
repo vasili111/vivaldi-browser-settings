@@ -3,6 +3,7 @@
 1. In settings>Themes: Subtle?
 
 2. In settings> tabs> tab display  "remove tab spacing", "Dim icon when hibernated" and maybe settings about tumbnails.
+   Hibernation extensions: https://www.reddit.com/r/vivaldibrowser/comments/8sgya7/does_the_vivaldi_have_a_setting_to_auto_hibernate/
 
 3. In settings>Panels "Show panel toggle"
     
