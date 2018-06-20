@@ -24,3 +24,4 @@
 
 4. In settings>Panels "Show panel toggle"
     
+5. In settings>adress bar: "show full adress"
