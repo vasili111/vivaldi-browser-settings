@@ -18,6 +18,9 @@
     
     other links: https://forum.vivaldi.net/topic/18917/google-suggestions-address-field/3  and  https://forum.vivaldi.net/topic/6989/google-search-suggestion-doesn-t-work/15
     
-    
-2. In settings> tabs> tab display  "remove tab spacing", "Dim icon when hibernated" and maybe settings about tumbnails.
+2. In settings>Themes: Subtle?
+
+3. In settings> tabs> tab display  "remove tab spacing", "Dim icon when hibernated" and maybe settings about tumbnails.
+
+4. In settings>Panels "Show panel toggle"
     
